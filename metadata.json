@@ -1,0 +1,6 @@
+{
+  "name": "LabelScan - Анализ состава",
+  "description": "Умный сканер состава банок и продуктов: мгновенный перевод, детальный разбор ингредиентов, пищевая ценность, добавки E и аллергены по фото этикетки.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
